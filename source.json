@@ -1,0 +1,18 @@
+{
+  "Plugins": [
+    {
+      "Name": "HealthBars",
+      "OriginalAuthor": "OriathHub",
+      "Repositories": [
+        {
+          "Author": "your-github-user-or-org",
+          "Name": "HealthBars",
+          "Branch": "main",
+          "Location": "your-github-user-or-org"
+        }
+      ],
+      "Description": "Customizable monster/player healthbars",
+      "EndorsedAuthor": "your-github-user-or-org"
+    }
+  ]
+}
