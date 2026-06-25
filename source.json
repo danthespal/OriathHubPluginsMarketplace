@@ -5,14 +5,14 @@
       "OriginalAuthor": "OriathHub",
       "Repositories": [
         {
-          "Author": "your-github-user-or-org",
+          "Author": "danthespal",
           "Name": "HealthBars",
           "Branch": "main",
-          "Location": "your-github-user-or-org"
+          "Location": "danthespal"
         }
       ],
       "Description": "Customizable monster/player healthbars",
-      "EndorsedAuthor": "your-github-user-or-org"
+      "EndorsedAuthor": "danthespal"
     }
   ]
 }
