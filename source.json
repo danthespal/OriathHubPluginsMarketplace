@@ -13,6 +13,62 @@
       ],
       "Description": "Draw health, energy shield, mana and ward bars above entities in the game world. Supports customisable bar style and per-monster-type visibility rules.",
       "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "Radar",
+      "OriginalAuthor": "OriathHub",
+      "Repositories": [
+        {
+          "Author": "danthespal",
+          "Name": "Radar",
+          "Branch": "main",
+          "Location": "danthespal"
+        }
+      ],
+      "Description": "Draws a live minimap overlay with entity positions, POI markers, and pathfinding routes. Highlights stairs, boss arenas, and Delve chests using built-in TGT file lists.",
+      "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "NinjaPricer",
+      "OriginalAuthor": "OriathHub",
+      "Repositories": [
+        {
+          "Author": "danthespal",
+          "Name": "NinjaPricer",
+          "Branch": "main",
+          "Location": "danthespal"
+        }
+      ],
+      "Description": "Overlays poe.ninja price tags on stash cells and lists all items in open tabs in a sidebar window. Highlights valuable items above a configurable chaos threshold.",
+      "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "AutoHotKeyTrigger",
+      "OriginalAuthor": "OriathHub",
+      "Repositories": [
+        {
+          "Author": "danthespal",
+          "Name": "AutoHotKeyTrigger",
+          "Branch": "main",
+          "Location": "danthespal"
+        }
+      ],
+      "Description": "Automatically presses keys for flasks and skills when user-defined conditions are met (vitals, buffs, nearby monsters, status effects). Supports multiple profiles and an emergency AutoQuit trigger.",
+      "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "Atlas",
+      "OriginalAuthor": "OriathHub",
+      "Repositories": [
+        {
+          "Author": "danthespal",
+          "Name": "Atlas",
+          "Branch": "main",
+          "Location": "danthespal"
+        }
+      ],
+      "Description": "Draws labels, biome borders, and group colours on the endgame atlas map. Supports named map groups, content filtering, and map search.",
+      "EndorsedAuthor": "Arsenic"
     }
   ]
 }
