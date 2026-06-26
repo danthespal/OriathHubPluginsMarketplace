@@ -1,1 +1,26 @@
-
+{
+  "PluginDescriptions": [
+    {
+      "Name": "HealthBars",
+      "OriginalAuthor": "OriathHub",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "HealthBars",
+          "LatestCommit": {
+            "Message": "Update HealthBars.csproj",
+            "Hash": "63b5dd86d28515e0af33b4dbee8e29f28fd8efd4",
+            "Author": "danthespal",
+            "Date": "2026-06-25T22:31:34Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "Customizable monster/player healthbars",
+      "EndorsedAuthor": "danthespal"
+    }
+  ],
+  "Updated": "2026-06-26T13:41:12.3844024Z",
+  "ModelVersion": "1"
+}
