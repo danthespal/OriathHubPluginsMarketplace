@@ -10,17 +10,17 @@
           "Name": "HealthBars",
           "LatestCommit": {
             "Message": "Update HealthBars.csproj",
-            "Hash": "63b5dd86d28515e0af33b4dbee8e29f28fd8efd4",
+            "Hash": "99c1e851a75adb6971a2a2d2f1124ac86b52b9c8",
             "Author": "danthespal",
-            "Date": "2026-06-25T22:31:34Z"
+            "Date": "2026-06-26T23:06:53Z"
           },
           "Releases": []
         }
       ],
-      "Description": "Customizable monster/player healthbars",
-      "EndorsedAuthor": "danthespal"
+      "Description": "Draw health, energy shield, mana and ward bars above entities in the game world. Supports customisable bar style and per-monster-type visibility rules.",
+      "EndorsedAuthor": "Arsenic"
     }
   ],
-  "Updated": "2026-06-26T22:47:42.6731609Z",
+  "Updated": "2026-06-26T23:08:28.1658537Z",
   "ModelVersion": "1"
 }
