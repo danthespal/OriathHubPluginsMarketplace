@@ -19,8 +19,88 @@
       ],
       "Description": "Draw health, energy shield, mana and ward bars above entities in the game world. Supports customisable bar style and per-monster-type visibility rules.",
       "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "Radar",
+      "OriginalAuthor": "OriathHub",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "Radar",
+          "LatestCommit": {
+            "Message": "Update Radar.csproj",
+            "Hash": "34dd1034fd8a8dbeac0ead02f1dc692ef7a460f4",
+            "Author": "danthespal",
+            "Date": "2026-06-26T23:11:22Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "Draws a live minimap overlay with entity positions, POI markers, and pathfinding routes. Highlights stairs, boss arenas, and Delve chests using built-in TGT file lists.",
+      "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "NinjaPricer",
+      "OriginalAuthor": "OriathHub",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "NinjaPricer",
+          "LatestCommit": {
+            "Message": "Update NinjaPricer.csproj",
+            "Hash": "e51adf8ee6ea1b2a7f1555776d5609dff8c23b57",
+            "Author": "danthespal",
+            "Date": "2026-06-26T23:12:04Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "Overlays poe.ninja price tags on stash cells and lists all items in open tabs in a sidebar window. Highlights valuable items above a configurable chaos threshold.",
+      "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "AutoHotKeyTrigger",
+      "OriginalAuthor": "OriathHub",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "AutoHotKeyTrigger",
+          "LatestCommit": {
+            "Message": "Update AutoHotKeyTrigger.csproj",
+            "Hash": "8976f3465d9e7754a9c0380cf43a6e9e24e16d92",
+            "Author": "danthespal",
+            "Date": "2026-06-26T23:12:36Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "Automatically presses keys for flasks and skills when user-defined conditions are met (vitals, buffs, nearby monsters, status effects). Supports multiple profiles and an emergency AutoQuit trigger.",
+      "EndorsedAuthor": "Arsenic"
+    },
+    {
+      "Name": "Atlas",
+      "OriginalAuthor": "OriathHub",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "Atlas",
+          "LatestCommit": {
+            "Message": "Fix path separator in CopyToHostPluginsDir target",
+            "Hash": "a228b7d54604a3c97bee1c9204cd3f500090e350",
+            "Author": "danthespal",
+            "Date": "2026-06-26T23:13:05Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "Draws labels, biome borders, and group colours on the endgame atlas map. Supports named map groups, content filtering, and map search.",
+      "EndorsedAuthor": "Arsenic"
     }
   ],
-  "Updated": "2026-06-26T23:08:28.1658537Z",
+  "Updated": "2026-06-26T23:15:58.4061152Z",
   "ModelVersion": "1"
 }
