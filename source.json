@@ -11,8 +11,8 @@
           "Location": "danthespal"
         }
       ],
-      "Description": "Customizable monster/player healthbars",
-      "EndorsedAuthor": "danthespal"
+      "Description": "Draw health, energy shield, mana and ward bars above entities in the game world. Supports customisable bar style and per-monster-type visibility rules.",
+      "EndorsedAuthor": "Arsenic"
     }
   ]
 }
