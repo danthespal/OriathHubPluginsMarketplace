@@ -9,10 +9,10 @@
           "Location": "danthespal",
           "Name": "HealthBars",
           "LatestCommit": {
-            "Message": "Merge branch \u0027main\u0027 of https://github.com/danthespal/HealthBars",
-            "Hash": "bb214eaccbf3225d8560f7312ceb0aa1d691343c",
+            "Message": "update sdk location",
+            "Hash": "63af9600a4368466bf716a9e386e47cd2d7d739e",
             "Author": "danthespal",
-            "Date": "2026-06-27T09:34:32Z"
+            "Date": "2026-06-27T18:23:57Z"
           },
           "Releases": []
         }
@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "update sdk",
-            "Hash": "3398b4aa21afd46ec7bfd951823dd8bc413d455e",
+            "Message": "update sdk location",
+            "Hash": "937aef154ae1f5c4427190fdb766d7f3b51514e2",
             "Author": "danthespal",
-            "Date": "2026-06-27T09:35:04Z"
+            "Date": "2026-06-27T18:24:16Z"
           },
           "Releases": []
         }
@@ -49,10 +49,10 @@
           "Location": "danthespal",
           "Name": "NinjaPricer",
           "LatestCommit": {
-            "Message": "Merge branch \u0027main\u0027 of https://github.com/danthespal/NinjaPricer",
-            "Hash": "364751c9ce7b2286f85ced4f6d7ef2ccb269a444",
+            "Message": "update sdk location",
+            "Hash": "7eacb050033e14d3b84bc19c5412140cb54a6e07",
             "Author": "danthespal",
-            "Date": "2026-06-27T09:34:47Z"
+            "Date": "2026-06-27T18:24:05Z"
           },
           "Releases": []
         }
@@ -69,10 +69,10 @@
           "Location": "danthespal",
           "Name": "AutoHotKeyTrigger",
           "LatestCommit": {
-            "Message": "Merge branch \u0027main\u0027 of https://github.com/danthespal/AutoHotKeyTrigger",
-            "Hash": "bd5c910e44c9ae9a880631fe9281e36a31066e52",
+            "Message": "update sdk location",
+            "Hash": "3ae3a52c3fbbc8af654e5b4d1ab5ebbee4cbfdc2",
             "Author": "danthespal",
-            "Date": "2026-06-27T09:34:17Z"
+            "Date": "2026-06-27T18:23:48Z"
           },
           "Releases": []
         }
@@ -89,10 +89,10 @@
           "Location": "danthespal",
           "Name": "Atlas",
           "LatestCommit": {
-            "Message": "update sdk",
-            "Hash": "dae212058f33b1ee01f7f8db759fd7888293a3fa",
+            "Message": "update sdk location",
+            "Hash": "1cf255e449b8a8387cde704babc17571162baa7f",
             "Author": "danthespal",
-            "Date": "2026-06-27T09:34:06Z"
+            "Date": "2026-06-27T18:23:38Z"
           },
           "Releases": []
         }
@@ -101,6 +101,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-06-27T16:41:29.7738067Z",
+  "Updated": "2026-06-27T18:47:02.2152705Z",
   "ModelVersion": "1"
 }
