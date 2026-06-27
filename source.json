@@ -12,7 +12,7 @@
         }
       ],
       "Description": "Draw health, energy shield, mana and ward bars above entities in the game world. Supports customisable bar style and per-monster-type visibility rules.",
-      "EndorsedAuthor": "Arsenic"
+      "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "Radar",
@@ -26,7 +26,7 @@
         }
       ],
       "Description": "Draws a live minimap overlay with entity positions, POI markers, and pathfinding routes. Highlights stairs, boss arenas, and Delve chests using built-in TGT file lists.",
-      "EndorsedAuthor": "Arsenic"
+      "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "NinjaPricer",
@@ -40,7 +40,7 @@
         }
       ],
       "Description": "Overlays poe.ninja price tags on stash cells and lists all items in open tabs in a sidebar window. Highlights valuable items above a configurable chaos threshold.",
-      "EndorsedAuthor": "Arsenic"
+      "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "AutoHotKeyTrigger",
@@ -54,7 +54,7 @@
         }
       ],
       "Description": "Automatically presses keys for flasks and skills when user-defined conditions are met (vitals, buffs, nearby monsters, status effects). Supports multiple profiles and an emergency AutoQuit trigger.",
-      "EndorsedAuthor": "Arsenic"
+      "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "Atlas",
@@ -68,7 +68,7 @@
         }
       ],
       "Description": "Draws labels, biome borders, and group colours on the endgame atlas map. Supports named map groups, content filtering, and map search.",
-      "EndorsedAuthor": "Arsenic"
+      "EndorsedAuthor": "danthespal"
     }
   ]
 }
