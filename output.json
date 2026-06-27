@@ -9,10 +9,10 @@
           "Location": "danthespal",
           "Name": "HealthBars",
           "LatestCommit": {
-            "Message": "Update HealthBars.csproj",
-            "Hash": "99c1e851a75adb6971a2a2d2f1124ac86b52b9c8",
+            "Message": "Merge branch \u0027main\u0027 of https://github.com/danthespal/HealthBars",
+            "Hash": "bb214eaccbf3225d8560f7312ceb0aa1d691343c",
             "Author": "danthespal",
-            "Date": "2026-06-26T23:06:53Z"
+            "Date": "2026-06-27T09:34:32Z"
           },
           "Releases": []
         }
@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "Update Radar.csproj",
-            "Hash": "34dd1034fd8a8dbeac0ead02f1dc692ef7a460f4",
+            "Message": "update sdk",
+            "Hash": "3398b4aa21afd46ec7bfd951823dd8bc413d455e",
             "Author": "danthespal",
-            "Date": "2026-06-26T23:11:22Z"
+            "Date": "2026-06-27T09:35:04Z"
           },
           "Releases": []
         }
@@ -49,10 +49,10 @@
           "Location": "danthespal",
           "Name": "NinjaPricer",
           "LatestCommit": {
-            "Message": "Update NinjaPricer.csproj",
-            "Hash": "e51adf8ee6ea1b2a7f1555776d5609dff8c23b57",
+            "Message": "Merge branch \u0027main\u0027 of https://github.com/danthespal/NinjaPricer",
+            "Hash": "364751c9ce7b2286f85ced4f6d7ef2ccb269a444",
             "Author": "danthespal",
-            "Date": "2026-06-26T23:12:04Z"
+            "Date": "2026-06-27T09:34:47Z"
           },
           "Releases": []
         }
@@ -69,10 +69,10 @@
           "Location": "danthespal",
           "Name": "AutoHotKeyTrigger",
           "LatestCommit": {
-            "Message": "Update AutoHotKeyTrigger.csproj",
-            "Hash": "8976f3465d9e7754a9c0380cf43a6e9e24e16d92",
+            "Message": "Merge branch \u0027main\u0027 of https://github.com/danthespal/AutoHotKeyTrigger",
+            "Hash": "bd5c910e44c9ae9a880631fe9281e36a31066e52",
             "Author": "danthespal",
-            "Date": "2026-06-26T23:12:36Z"
+            "Date": "2026-06-27T09:34:17Z"
           },
           "Releases": []
         }
@@ -89,10 +89,10 @@
           "Location": "danthespal",
           "Name": "Atlas",
           "LatestCommit": {
-            "Message": "Fix path separator in CopyToHostPluginsDir target",
-            "Hash": "a228b7d54604a3c97bee1c9204cd3f500090e350",
+            "Message": "update sdk",
+            "Hash": "dae212058f33b1ee01f7f8db759fd7888293a3fa",
             "Author": "danthespal",
-            "Date": "2026-06-26T23:13:05Z"
+            "Date": "2026-06-27T09:34:06Z"
           },
           "Releases": []
         }
@@ -101,6 +101,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-06-27T08:11:34.9521674Z",
+  "Updated": "2026-06-27T11:12:22.7020417Z",
   "ModelVersion": "1"
 }
