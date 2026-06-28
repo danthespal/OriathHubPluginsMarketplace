@@ -9,10 +9,10 @@
           "Location": "danthespal",
           "Name": "HealthBars",
           "LatestCommit": {
-            "Message": "update sdk location",
-            "Hash": "63af9600a4368466bf716a9e386e47cd2d7d739e",
+            "Message": "update",
+            "Hash": "f7698442b664e80f7c1f0ec390f7247aa6a11507",
             "Author": "danthespal",
-            "Date": "2026-06-27T18:23:57Z"
+            "Date": "2026-06-28T12:01:56Z"
           },
           "Releases": []
         }
@@ -69,10 +69,10 @@
           "Location": "danthespal",
           "Name": "AutoHotKeyTrigger",
           "LatestCommit": {
-            "Message": "update sdk location",
-            "Hash": "3ae3a52c3fbbc8af654e5b4d1ab5ebbee4cbfdc2",
+            "Message": "Update AutoHotKeyTriggerCore.cs",
+            "Hash": "7e2fa1a03111ffe2b56ce32ac733281322d971a6",
             "Author": "danthespal",
-            "Date": "2026-06-27T18:23:48Z"
+            "Date": "2026-06-28T12:41:28Z"
           },
           "Releases": []
         }
@@ -101,6 +101,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-06-28T10:13:12.117974Z",
+  "Updated": "2026-06-28T13:00:56.5822129Z",
   "ModelVersion": "1"
 }
