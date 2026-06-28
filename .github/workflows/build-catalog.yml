@@ -52,15 +52,29 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
         run: dotnet dp_out/DataProcessor.dll build source.json > data/output.json
 
-      - name: Commit to data branch
+      - name: Sign and commit to data branch
         working-directory: data
+        env:
+          CATALOG_SIGNING_KEY: ${{ secrets.CATALOG_SIGNING_KEY }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output.json
           if git diff --cached --quiet; then
             echo "No catalog changes."
-          else
-            git commit -m "Update output.json from ${{ github.sha }}"
-            git push
+            exit 0
           fi
+          # Detached ECDSA P-256 signature over the exact output.json bytes the marketplace verifies
+          # (openssl DER == .NET DSASignatureFormat.Rfc3279DerSequence, SHA-256). The private key only
+          # ever exists as the CATALOG_SIGNING_KEY secret and is shredded right after signing.
+          if [ -n "$CATALOG_SIGNING_KEY" ]; then
+            printf '%s\n' "$CATALOG_SIGNING_KEY" > ../signing_key.pem
+            openssl dgst -sha256 -sign ../signing_key.pem -out output.json.sig output.json
+            rm -f ../signing_key.pem
+            git add output.json.sig
+            echo "Signed output.json -> output.json.sig"
+          else
+            echo "::warning::CATALOG_SIGNING_KEY not set; committing unsigned catalog (clients treat it as unverified)."
+          fi
+          git commit -m "Update output.json from ${{ github.sha }}"
+          git push
