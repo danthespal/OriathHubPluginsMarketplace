@@ -99,8 +99,28 @@
       ],
       "Description": "Draws labels, biome borders, and group colours on the endgame atlas map. Supports named map groups, content filtering, and map search.",
       "EndorsedAuthor": "danthespal"
+    },
+    {
+      "Name": "Pathfinding",
+      "OriginalAuthor": "OriathHub",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "Pathfinding",
+          "LatestCommit": {
+            "Message": "sdk",
+            "Hash": "278ae6419192e384b71c128105b326b1f0777454",
+            "Author": "danthespal",
+            "Date": "2026-07-06T00:30:51Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "Draws a line from each monster to where it is pathing.",
+      "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-07-05T22:33:28.701464Z",
+  "Updated": "2026-07-06T00:40:16.5073258Z",
   "ModelVersion": "1"
 }
