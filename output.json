@@ -9,10 +9,10 @@
           "Location": "danthespal",
           "Name": "HealthBars",
           "LatestCommit": {
-            "Message": "Update HealthBars.cs",
-            "Hash": "e84b40c4815a03051653c4ac45213a3feab95edb",
+            "Message": "DPS Readout\n\n- Live DPS meter under monster health bars, showing effective HP drained per second (Energy Shield \u002B Life \u002B Ward combined). Enable per rarity/type (white, magic, rare, unique, friendly)\n- Gross-drain measurement over a configurable sliding window - counts damage only, so monster regen / ES recharge / ward refresh don\u0027t distort the number. Reads your damage output.",
+            "Hash": "09135abfe03c2a9790db416f3e78eff93f5b41b9",
             "Author": "danthespal",
-            "Date": "2026-07-01T20:48:46Z"
+            "Date": "2026-07-06T23:14:21Z"
           },
           "Releases": []
         }
@@ -121,6 +121,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-07-06T22:46:28.497838Z",
+  "Updated": "2026-07-07T01:20:00.9460771Z",
   "ModelVersion": "1"
 }
