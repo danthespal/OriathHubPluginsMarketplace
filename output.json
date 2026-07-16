@@ -3,124 +3,46 @@
     {
       "Name": "HealthBars",
       "OriginalAuthor": "OriathHub",
-      "Forks": [
-        {
-          "Author": "danthespal",
-          "Location": "danthespal",
-          "Name": "HealthBars",
-          "LatestCommit": {
-            "Message": "DPS Readout\n\n- Live DPS meter under monster health bars, showing effective HP drained per second (Energy Shield \u002B Life \u002B Ward combined). Enable per rarity/type (white, magic, rare, unique, friendly)\n- Gross-drain measurement over a configurable sliding window - counts damage only, so monster regen / ES recharge / ward refresh don\u0027t distort the number. Reads your damage output.",
-            "Hash": "09135abfe03c2a9790db416f3e78eff93f5b41b9",
-            "Author": "danthespal",
-            "Date": "2026-07-06T23:14:21Z"
-          },
-          "Releases": []
-        }
-      ],
+      "Forks": [],
       "Description": "Draw health, energy shield, mana and ward bars above entities in the game world. Supports customisable bar style and per-monster-type visibility rules.",
       "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "Radar",
       "OriginalAuthor": "OriathHub",
-      "Forks": [
-        {
-          "Author": "danthespal",
-          "Location": "danthespal",
-          "Name": "Radar",
-          "LatestCommit": {
-            "Message": "update",
-            "Hash": "2c106f28daf80c74258caa7b6bc02dcf28ba8ac0",
-            "Author": "danthespal",
-            "Date": "2026-07-01T20:49:34Z"
-          },
-          "Releases": []
-        }
-      ],
+      "Forks": [],
       "Description": "Draws a live minimap overlay with entity positions, POI markers, and pathfinding routes. Highlights stairs, boss arenas, and Delve chests using built-in TGT file lists.",
       "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "NinjaPricer",
       "OriginalAuthor": "OriathHub",
-      "Forks": [
-        {
-          "Author": "danthespal",
-          "Location": "danthespal",
-          "Name": "NinjaPricer",
-          "LatestCommit": {
-            "Message": "update",
-            "Hash": "43509c7da98157344fa57f447537f9378153f995",
-            "Author": "danthespal",
-            "Date": "2026-07-02T16:46:24Z"
-          },
-          "Releases": []
-        }
-      ],
+      "Forks": [],
       "Description": "Overlays poe.ninja price tags on stash cells and lists all items in open tabs in a sidebar window. Highlights valuable items above a configurable chaos threshold.",
       "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "AutoHotKeyTrigger",
       "OriginalAuthor": "OriathHub",
-      "Forks": [
-        {
-          "Author": "danthespal",
-          "Location": "danthespal",
-          "Name": "AutoHotKeyTrigger",
-          "LatestCommit": {
-            "Message": "Update AutoHotKeyTriggerCore.cs",
-            "Hash": "89820d213b5df5a86df59ca0e423aa837255854b",
-            "Author": "danthespal",
-            "Date": "2026-07-01T20:48:37Z"
-          },
-          "Releases": []
-        }
-      ],
+      "Forks": [],
       "Description": "Automatically presses keys for flasks and skills when user-defined conditions are met (vitals, buffs, nearby monsters, status effects). Supports multiple profiles and an emergency AutoQuit trigger.",
       "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "Atlas",
       "OriginalAuthor": "OriathHub",
-      "Forks": [
-        {
-          "Author": "danthespal",
-          "Location": "danthespal",
-          "Name": "Atlas",
-          "LatestCommit": {
-            "Message": "update",
-            "Hash": "9d625471ce5e34cdfc281fbb8827602318913faf",
-            "Author": "danthespal",
-            "Date": "2026-07-01T20:48:25Z"
-          },
-          "Releases": []
-        }
-      ],
+      "Forks": [],
       "Description": "Draws labels, biome borders, and group colours on the endgame atlas map. Supports named map groups, content filtering, and map search.",
       "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "Pathfinding",
       "OriginalAuthor": "OriathHub",
-      "Forks": [
-        {
-          "Author": "danthespal",
-          "Location": "danthespal",
-          "Name": "Pathfinding",
-          "LatestCommit": {
-            "Message": "sdk",
-            "Hash": "278ae6419192e384b71c128105b326b1f0777454",
-            "Author": "danthespal",
-            "Date": "2026-07-06T00:30:51Z"
-          },
-          "Releases": []
-        }
-      ],
+      "Forks": [],
       "Description": "Draws a line from each monster to where it is pathing.",
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-07-16T20:29:31.3996781Z",
+  "Updated": "2026-07-16T22:32:25.5863944Z",
   "ModelVersion": "1"
 }
