@@ -43,7 +43,20 @@
     {
       "Name": "NinjaPricer",
       "OriginalAuthor": "OriathHub",
-      "Forks": [],
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "NinjaPricer",
+          "LatestCommit": {
+            "Message": "update",
+            "Hash": "43509c7da98157344fa57f447537f9378153f995",
+            "Author": "danthespal",
+            "Date": "2026-07-02T16:46:24Z"
+          },
+          "Releases": []
+        }
+      ],
       "Description": "Overlays poe.ninja price tags on stash cells and lists all items in open tabs in a sidebar window. Highlights valuable items above a configurable chaos threshold.",
       "EndorsedAuthor": "danthespal"
     },
@@ -108,6 +121,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-07-20T01:08:24.4401897Z",
+  "Updated": "2026-07-20T05:09:57.3878516Z",
   "ModelVersion": "1"
 }
