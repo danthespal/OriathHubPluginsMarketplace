@@ -83,6 +83,20 @@
       ],
       "Description": "Draws a line from each monster to where it is pathing.",
       "EndorsedAuthor": "danthespal"
+    },
+    {
+      "Name": "Expedition",
+      "OriginalAuthor": "MrOne",
+      "Repositories": [
+        {
+          "Author": "MrOne",
+          "Name": "Expedition",
+          "Branch": "main",
+          "Location": "MrOneD"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
     }
   ]
 }
