@@ -97,6 +97,118 @@
       ],
       "Description": "",
       "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "Notify",
+      "OriginalAuthor": "MrOne",
+      "Repositories": [
+        {
+          "Author": "MrOne",
+          "Name": "Notify",
+          "Branch": "main",
+          "Location": "MrOneD"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "ExpMeter",
+      "OriginalAuthor": "MrOne",
+      "Repositories": [
+        {
+          "Author": "MrOne",
+          "Name": "ExpMeter",
+          "Branch": "main",
+          "Location": "MrOneD"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "Ritual Pricer",
+      "OriginalAuthor": "MrOne",
+      "Repositories": [
+        {
+          "Author": "MrOne",
+          "Name": "Ritual",
+          "Branch": "main",
+          "Location": "MrOneD"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "Waystones & Tables",
+      "OriginalAuthor": "MrOne",
+      "Repositories": [
+        {
+          "Author": "MrOne",
+          "Name": "Waystones",
+          "Branch": "main",
+          "Location": "MrOneD"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "AutoPot",
+      "OriginalAuthor": "kanguru86",
+      "Repositories": [
+        {
+          "Author": "kanguru86",
+          "Name": "AutoPot",
+          "Branch": "main",
+          "Location": "tntuyen"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "kanguru86"
+    },
+    {
+      "Name": "RunePricer",
+      "OriginalAuthor": "Nabeora",
+      "Repositories": [
+        {
+          "Author": "Nabeora",
+          "Name": "RunePricer",
+          "Branch": "main",
+          "Location": "Natsui31"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Nabeora"
+    },
+    {
+      "Name": "RunePricer",
+      "OriginalAuthor": "Nabeora",
+      "Repositories": [
+        {
+          "Author": "Nabeora",
+          "Name": "RunePricer",
+          "Branch": "main",
+          "Location": "Natsui31"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Nabeora"
+    },
+    {
+      "Name": "BetterLootTracker",
+      "OriginalAuthor": "Raff",
+      "Repositories": [
+        {
+          "Author": "Raff",
+          "Name": "BetterLootTracker",
+          "Branch": "main",
+          "Location": "RAcbd"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Raff"
     }
   ]
 }
