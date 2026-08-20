@@ -183,20 +183,6 @@
       "EndorsedAuthor": "Nabeora"
     },
     {
-      "Name": "RunePricer",
-      "OriginalAuthor": "Nabeora",
-      "Repositories": [
-        {
-          "Author": "Nabeora",
-          "Name": "RunePricer",
-          "Branch": "main",
-          "Location": "Natsui31"
-        }
-      ],
-      "Description": "",
-      "EndorsedAuthor": "Nabeora"
-    },
-    {
       "Name": "BetterLootTracker",
       "OriginalAuthor": "Raff",
       "Repositories": [
