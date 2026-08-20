@@ -176,8 +176,272 @@
       ],
       "Description": "",
       "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "Notify",
+      "OriginalAuthor": "MrOne",
+      "Forks": [
+        {
+          "Author": "MrOne",
+          "Location": "MrOneD",
+          "Name": "Notify",
+          "LatestCommit": {
+            "Message": "Initial commit",
+            "Hash": "5501d44d031a4fb755074a8142a70032cae256e0",
+            "Author": "MrOneD",
+            "Date": "2026-07-13T17:26:58Z"
+          },
+          "Releases": [
+            {
+              "Id": "0.2.0",
+              "Title": "Notify 0.2.0",
+              "FilesAttached": [
+                "Notify.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T17:26:58Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "ExpMeter",
+      "OriginalAuthor": "MrOne",
+      "Forks": [
+        {
+          "Author": "MrOne",
+          "Location": "MrOneD",
+          "Name": "ExpMeter",
+          "LatestCommit": {
+            "Message": "Initial commit",
+            "Hash": "d7ab3d2afa5700e4b955b83917d225e79be3abdc",
+            "Author": "MrOneD",
+            "Date": "2026-07-13T08:20:02Z"
+          },
+          "Releases": [
+            {
+              "Id": "0.3.1",
+              "Title": "ExpMeter 0.3.1",
+              "FilesAttached": [
+                "ExpMeter.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T08:20:02Z"
+            },
+            {
+              "Id": "0.3.0",
+              "Title": "ExpMeter 0.3.0",
+              "FilesAttached": [
+                "ExpMeter.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T08:20:02Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "Ritual Pricer",
+      "OriginalAuthor": "MrOne",
+      "Forks": [
+        {
+          "Author": "MrOne",
+          "Location": "MrOneD",
+          "Name": "Ritual",
+          "LatestCommit": {
+            "Message": "Initial commit",
+            "Hash": "a3e8b5b8c866da7045fafd7bc65c60e7e04963e8",
+            "Author": "MrOneD",
+            "Date": "2026-07-13T07:51:48Z"
+          },
+          "Releases": [
+            {
+              "Id": "0.4.0",
+              "Title": "Ritual 0.4.0",
+              "FilesAttached": [
+                "Ritual.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T07:51:48Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "Waystones \u0026 Tables",
+      "OriginalAuthor": "MrOne",
+      "Forks": [
+        {
+          "Author": "MrOne",
+          "Location": "MrOneD",
+          "Name": "Waystones",
+          "LatestCommit": {
+            "Message": "Initial commit",
+            "Hash": "1c361c076b10428f709de687c57f7bb5d13f5bf9",
+            "Author": "MrOneD",
+            "Date": "2026-07-01T16:22:11Z"
+          },
+          "Releases": [
+            {
+              "Id": "0.6.3",
+              "Title": "Waystones 0.6.3",
+              "FilesAttached": [
+                "Waystones.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:22:11Z"
+            },
+            {
+              "Id": "0.6.2",
+              "Title": "Waystones 0.6.2",
+              "FilesAttached": [
+                "Waystones.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:22:11Z"
+            },
+            {
+              "Id": "0.6.1",
+              "Title": "Waystones 0.6.1",
+              "FilesAttached": [
+                "Waystones.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:22:11Z"
+            },
+            {
+              "Id": "0.6.0",
+              "Title": "Waystones 0.6.0",
+              "FilesAttached": [
+                "Waystones.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:22:11Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
+    },
+    {
+      "Name": "AutoPot",
+      "OriginalAuthor": "kanguru86",
+      "Forks": [
+        {
+          "Author": "kanguru86",
+          "Location": "tntuyen",
+          "Name": "AutoPot",
+          "LatestCommit": {
+            "Message": "AutoPot v1.1.0",
+            "Hash": "c7b027c6123de5e3e9846022c6c0df5784a779a5",
+            "Author": "tntuyen",
+            "Date": "2026-07-04T19:37:59Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "kanguru86"
+    },
+    {
+      "Name": "RunePricer",
+      "OriginalAuthor": "Nabeora",
+      "Forks": [
+        {
+          "Author": "Nabeora",
+          "Location": "Natsui31",
+          "Name": "RunePricer",
+          "LatestCommit": {
+            "Message": "Update README.md",
+            "Hash": "2108c7e205aa469e9c0d5edba5f40bb6b42f0da7",
+            "Author": "Natsui31",
+            "Date": "2026-06-28T21:02:35Z"
+          },
+          "Releases": [
+            {
+              "Id": "v1.2.5",
+              "Title": "v1.2.5",
+              "FilesAttached": [
+                "RunePricer-v1.2.5.zip"
+              ],
+              "Description": "Plugin version: 1.2.5\nOriathHub.Sdk version: 0.12.0",
+              "Date": "2026-06-28T21:02:35Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Nabeora"
+    },
+    {
+      "Name": "RunePricer",
+      "OriginalAuthor": "Nabeora",
+      "Forks": [
+        {
+          "Author": "Nabeora",
+          "Location": "Natsui31",
+          "Name": "RunePricer",
+          "LatestCommit": {
+            "Message": "Update README.md",
+            "Hash": "2108c7e205aa469e9c0d5edba5f40bb6b42f0da7",
+            "Author": "Natsui31",
+            "Date": "2026-06-28T21:02:35Z"
+          },
+          "Releases": [
+            {
+              "Id": "v1.2.5",
+              "Title": "v1.2.5",
+              "FilesAttached": [
+                "RunePricer-v1.2.5.zip"
+              ],
+              "Description": "Plugin version: 1.2.5\nOriathHub.Sdk version: 0.12.0",
+              "Date": "2026-06-28T21:02:35Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Nabeora"
+    },
+    {
+      "Name": "BetterLootTracker",
+      "OriginalAuthor": "Raff",
+      "Forks": [
+        {
+          "Author": "Raff",
+          "Location": "RAcbd",
+          "Name": "BetterLootTracker",
+          "LatestCommit": {
+            "Message": "Fix Marketplace build by committing embedded currency-names.json.\n\nScope gitignore runtime data/ and config/ to repo root so OriathPlugins.Common/Data is not ignored on Windows.",
+            "Hash": "aa05877f23f674a6584bd4f249f52e6115bc937b",
+            "Author": "RAcbd",
+            "Date": "2026-06-28T12:14:16Z"
+          },
+          "Releases": [
+            {
+              "Id": "1.9.1",
+              "Title": "BetterLootTracker v1.9.1",
+              "FilesAttached": [],
+              "Description": "Updated SDK to 0.7.2",
+              "Date": "2026-06-25T14:24:32Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Raff"
     }
   ],
-  "Updated": "2026-08-20T10:53:27.0012269Z",
+  "Updated": "2026-08-20T11:19:31.4000939Z",
   "ModelVersion": "1"
 }
