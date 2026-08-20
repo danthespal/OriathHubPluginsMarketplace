@@ -247,7 +247,7 @@
       "EndorsedAuthor": "MrOne"
     },
     {
-      "Name": "Ritual Pricer",
+      "Name": "Ritual",
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
@@ -277,7 +277,7 @@
       "EndorsedAuthor": "MrOne"
     },
     {
-      "Name": "Waystones \u0026 Tables",
+      "Name": "Waystones",
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
@@ -412,6 +412,6 @@
       "EndorsedAuthor": "Raff"
     }
   ],
-  "Updated": "2026-08-20T11:55:19.3557419Z",
+  "Updated": "2026-08-20T11:56:52.218994Z",
   "ModelVersion": "1"
 }
