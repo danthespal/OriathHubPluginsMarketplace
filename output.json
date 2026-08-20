@@ -384,36 +384,6 @@
       "EndorsedAuthor": "Nabeora"
     },
     {
-      "Name": "RunePricer",
-      "OriginalAuthor": "Nabeora",
-      "Forks": [
-        {
-          "Author": "Nabeora",
-          "Location": "Natsui31",
-          "Name": "RunePricer",
-          "LatestCommit": {
-            "Message": "Update README.md",
-            "Hash": "2108c7e205aa469e9c0d5edba5f40bb6b42f0da7",
-            "Author": "Natsui31",
-            "Date": "2026-06-28T21:02:35Z"
-          },
-          "Releases": [
-            {
-              "Id": "v1.2.5",
-              "Title": "v1.2.5",
-              "FilesAttached": [
-                "RunePricer-v1.2.5.zip"
-              ],
-              "Description": "Plugin version: 1.2.5\nOriathHub.Sdk version: 0.12.0",
-              "Date": "2026-06-28T21:02:35Z"
-            }
-          ]
-        }
-      ],
-      "Description": "",
-      "EndorsedAuthor": "Nabeora"
-    },
-    {
       "Name": "BetterLootTracker",
       "OriginalAuthor": "Raff",
       "Forks": [
@@ -442,6 +412,6 @@
       "EndorsedAuthor": "Raff"
     }
   ],
-  "Updated": "2026-08-20T11:19:31.4000939Z",
+  "Updated": "2026-08-20T11:21:00.8270942Z",
   "ModelVersion": "1"
 }
