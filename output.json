@@ -119,8 +119,65 @@
       ],
       "Description": "Draws a line from each monster to where it is pathing.",
       "EndorsedAuthor": "danthespal"
+    },
+    {
+      "Name": "Expedition",
+      "OriginalAuthor": "MrOne",
+      "Forks": [
+        {
+          "Author": "MrOne",
+          "Location": "MrOneD",
+          "Name": "Expedition",
+          "LatestCommit": {
+            "Message": "Initial commit",
+            "Hash": "9805a60f5154b768929e7fcb50e8af38bb0fd5aa",
+            "Author": "MrOneD",
+            "Date": "2026-07-01T16:05:37Z"
+          },
+          "Releases": [
+            {
+              "Id": "0.3.3",
+              "Title": "Expedition 0.3.3",
+              "FilesAttached": [
+                "Expedition.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:05:37Z"
+            },
+            {
+              "Id": "0.3.2",
+              "Title": "Expedition 0.3.2",
+              "FilesAttached": [
+                "Expedition.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:05:37Z"
+            },
+            {
+              "Id": "0.3.1",
+              "Title": "Expedition 0.3.1",
+              "FilesAttached": [
+                "Expedition.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:05:37Z"
+            },
+            {
+              "Id": "0.3.0",
+              "Title": "Expedition 0.3.0",
+              "FilesAttached": [
+                "Expedition.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:05:37Z"
+            }
+          ]
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "MrOne"
     }
   ],
-  "Updated": "2026-08-20T10:02:50.5312345Z",
+  "Updated": "2026-08-20T10:53:27.0012269Z",
   "ModelVersion": "1"
 }
