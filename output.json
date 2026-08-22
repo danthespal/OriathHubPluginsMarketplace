@@ -414,11 +414,115 @@
     {
       "Name": "AuraTracker",
       "OriginalAuthor": "Skrip",
-      "Forks": [],
+      "Forks": [
+        {
+          "Author": "derekShaheen",
+          "Location": "derekShaheen",
+          "Name": "AuraTracker",
+          "LatestCommit": {
+            "Message": "Initiate actions",
+            "Hash": "199ed4568b03dfd4d22a6862480ec3cfdbae1aa0",
+            "Author": "derekShaheen",
+            "Date": "2026-08-22T15:47:08Z"
+          },
+          "Releases": [
+            {
+              "Id": "v1.3.8.8",
+              "Title": "AuraTracker-v1.3.8.8",
+              "FilesAttached": [
+                "AuraTracker.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/AuraTracker/compare/1.3.8.7...v1.3.8.8",
+              "Date": "2026-08-22T15:47:08Z"
+            },
+            {
+              "Id": "v1.3.8.5",
+              "Title": "AuraTracker-v1.3.8.5",
+              "FilesAttached": [
+                "AuraTracker-v1.3.8.5.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/AuraTracker/compare/v1.3.8.4...v1.3.8.5",
+              "Date": "2026-06-23T22:05:35Z"
+            },
+            {
+              "Id": "v1.3.8.4",
+              "Title": "AuraTracker-v1.3.8.4",
+              "FilesAttached": [
+                "AuraTracker-v1.3.8.4.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/AuraTracker/compare/v1.3.8.3...v1.3.8.4",
+              "Date": "2026-06-23T21:27:53Z"
+            },
+            {
+              "Id": "v1.3.8.2",
+              "Title": "AuraTracker-v1.3.8.2",
+              "FilesAttached": [
+                "AuraTracker-v1.3.8.2.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.8.1...v1.3.8.2",
+              "Date": "2025-10-02T05:31:58Z"
+            },
+            {
+              "Id": "v1.3.8.1",
+              "Title": "AuraTracker-v1.3.8.1",
+              "FilesAttached": [
+                "AuraTracker-v1.3.8.1.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.8...v1.3.8.1",
+              "Date": "2025-09-30T18:25:48Z"
+            },
+            {
+              "Id": "v1.3.8",
+              "Title": "AuraTracker-v1.3.8",
+              "FilesAttached": [
+                "AuraTracker-v1.3.8.zip"
+              ],
+              "Description": "## What\u0027s Changed\n* Refactor AuraTracker into modular components by @derekShaheen in https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/pull/1\n* Structure Refactor by @derekShaheen in https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/pull/2\n* Detect open menus via LargeMap center by @derekShaheen in https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/pull/3\n\n## New Contributors\n* @derekShaheen made their first contribution in https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/pull/1\n\n**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.7...v1.3.8",
+              "Date": "2025-09-26T00:59:28Z"
+            },
+            {
+              "Id": "v1.3.7",
+              "Title": "AuraTracker-v1.3.7",
+              "FilesAttached": [
+                "AuraTracker-v1.3.7.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.6...v1.3.7",
+              "Date": "2025-09-24T21:38:58Z"
+            },
+            {
+              "Id": "v1.3.6",
+              "Title": "AuraTracker-v1.3.6",
+              "FilesAttached": [
+                "AuraTracker-v1.3.6.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.5...v1.3.6",
+              "Date": "2025-09-20T23:12:37Z"
+            },
+            {
+              "Id": "v1.3.5",
+              "Title": "AuraTracker-v1.3.5",
+              "FilesAttached": [
+                "AuraTracker-v1.3.5.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.4...v1.3.5",
+              "Date": "2025-09-20T22:36:09Z"
+            },
+            {
+              "Id": "v1.3.4",
+              "Title": "AuraTracker-v1.3.4",
+              "FilesAttached": [
+                "AuraTracker-v1.3.4.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.3...v1.3.4",
+              "Date": "2025-09-20T22:05:01Z"
+            }
+          ]
+        }
+      ],
       "Description": "",
       "EndorsedAuthor": "Skrip"
     }
   ],
-  "Updated": "2026-08-22T15:55:56.601072Z",
+  "Updated": "2026-08-22T16:02:45.9555032Z",
   "ModelVersion": "1"
 }
