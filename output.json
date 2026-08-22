@@ -125,7 +125,7 @@
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
-          "Author": "MrOne",
+          "Author": "MrOneD",
           "Location": "MrOneD",
           "Name": "Expedition",
           "LatestCommit": {
@@ -182,7 +182,7 @@
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
-          "Author": "MrOne",
+          "Author": "MrOneD",
           "Location": "MrOneD",
           "Name": "Notify",
           "LatestCommit": {
@@ -212,7 +212,7 @@
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
-          "Author": "MrOne",
+          "Author": "MrOneD",
           "Location": "MrOneD",
           "Name": "ExpMeter",
           "LatestCommit": {
@@ -251,7 +251,7 @@
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
-          "Author": "MrOne",
+          "Author": "MrOneD",
           "Location": "MrOneD",
           "Name": "Ritual",
           "LatestCommit": {
@@ -281,7 +281,7 @@
       "OriginalAuthor": "MrOne",
       "Forks": [
         {
-          "Author": "MrOne",
+          "Author": "MrOneD",
           "Location": "MrOneD",
           "Name": "Waystones",
           "LatestCommit": {
@@ -338,7 +338,7 @@
       "OriginalAuthor": "kanguru86",
       "Forks": [
         {
-          "Author": "kanguru86",
+          "Author": "tntuyen",
           "Location": "tntuyen",
           "Name": "AutoPot",
           "LatestCommit": {
@@ -358,7 +358,7 @@
       "OriginalAuthor": "Nabeora",
       "Forks": [
         {
-          "Author": "Nabeora",
+          "Author": "Natsui31",
           "Location": "Natsui31",
           "Name": "RunePricer",
           "LatestCommit": {
@@ -388,7 +388,7 @@
       "OriginalAuthor": "Raff",
       "Forks": [
         {
-          "Author": "Raff",
+          "Author": "RAcbd",
           "Location": "RAcbd",
           "Name": "BetterLootTracker",
           "LatestCommit": {
@@ -419,6 +419,6 @@
       "EndorsedAuthor": "Skrip"
     }
   ],
-  "Updated": "2026-08-22T15:50:51.7670526Z",
+  "Updated": "2026-08-22T15:55:56.601072Z",
   "ModelVersion": "1"
 }
