@@ -410,8 +410,15 @@
       ],
       "Description": "",
       "EndorsedAuthor": "Raff"
+    },
+    {
+      "Name": "AuraTracker",
+      "OriginalAuthor": "Skrip",
+      "Forks": [],
+      "Description": "",
+      "EndorsedAuthor": "Skrip"
     }
   ],
-  "Updated": "2026-08-22T13:54:35.4563427Z",
+  "Updated": "2026-08-22T15:33:15.8134122Z",
   "ModelVersion": "1"
 }
