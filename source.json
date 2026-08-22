@@ -208,6 +208,19 @@
       ],
       "Description": "",
       "EndorsedAuthor": "Skrip"
+    },
+    {
+      "Name": "Ritual Wisp Follow",
+      "OriginalAuthor": "danthespal",
+      "Repositories": [
+        {
+          "Author": "danthespal",
+          "Name": "RitualWispFollow",
+          "Location": "danthespal"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "danthespal"
     }
   ]
 }
