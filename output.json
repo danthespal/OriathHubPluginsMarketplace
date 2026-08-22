@@ -523,7 +523,7 @@
       "EndorsedAuthor": "Skrip"
     },
     {
-      "Name": "Ritual Wisp Follow",
+      "Name": "RitualWispFollow",
       "OriginalAuthor": "danthespal",
       "Forks": [
         {
@@ -543,6 +543,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-08-22T23:00:08.9665061Z",
+  "Updated": "2026-08-22T23:03:19.0122382Z",
   "ModelVersion": "1"
 }
