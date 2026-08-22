@@ -195,6 +195,20 @@
       ],
       "Description": "",
       "EndorsedAuthor": "Raff"
+    },
+    {
+      "Name": "AuraTracker",
+      "OriginalAuthor": "Skrip",
+      "Repositories": [
+        {
+          "Author": "Skrip",
+          "Name": "AuraTracker",
+          "Branch": "main",
+          "Location": "derekShaheen"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "Skrip"
     }
   ]
 }
