@@ -521,8 +521,28 @@
       ],
       "Description": "",
       "EndorsedAuthor": "Skrip"
+    },
+    {
+      "Name": "Ritual Wisp Follow",
+      "OriginalAuthor": "danthespal",
+      "Forks": [
+        {
+          "Author": "danthespal",
+          "Location": "danthespal",
+          "Name": "RitualWispFollow",
+          "LatestCommit": {
+            "Message": "Update RitualWispFollow.csproj",
+            "Hash": "855431ee0fb7bf392d11d289d1c0fdc96846267f",
+            "Author": "danthespal",
+            "Date": "2026-08-22T22:54:17Z"
+          },
+          "Releases": []
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-08-22T21:49:52.9788014Z",
+  "Updated": "2026-08-22T23:00:08.9665061Z",
   "ModelVersion": "1"
 }
