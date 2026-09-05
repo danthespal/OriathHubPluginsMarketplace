@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "update",
-            "Hash": "2c106f28daf80c74258caa7b6bc02dcf28ba8ac0",
+            "Message": "Update Radar.cs",
+            "Hash": "48b578af819e8b5e02f5041ed41fc851feb7a568",
             "Author": "danthespal",
-            "Date": "2026-07-01T20:49:34Z"
+            "Date": "2026-09-05T01:41:43Z"
           },
           "Releases": []
         }
@@ -420,12 +420,21 @@
           "Location": "derekShaheen",
           "Name": "AuraTracker",
           "LatestCommit": {
-            "Message": "Initiate actions",
-            "Hash": "199ed4568b03dfd4d22a6862480ec3cfdbae1aa0",
+            "Message": "Added string drop for latest poe2 patch",
+            "Hash": "75df416f37d47a14eeb0e39dcc5aa353c04740ab",
             "Author": "derekShaheen",
-            "Date": "2026-08-22T15:47:08Z"
+            "Date": "2026-09-05T01:46:03Z"
           },
           "Releases": [
+            {
+              "Id": "v1.3.8.9",
+              "Title": "AuraTracker-v1.3.8.9",
+              "FilesAttached": [
+                "AuraTracker.zip"
+              ],
+              "Description": "**Full Changelog**: https://github.com/derekShaheen/AuraTracker/compare/v1.3.8.8...v1.3.8.9",
+              "Date": "2026-09-05T01:46:03Z"
+            },
             {
               "Id": "v1.3.8.8",
               "Title": "AuraTracker-v1.3.8.8",
@@ -506,15 +515,6 @@
               ],
               "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.4...v1.3.5",
               "Date": "2025-09-20T22:36:09Z"
-            },
-            {
-              "Id": "v1.3.4",
-              "Title": "AuraTracker-v1.3.4",
-              "FilesAttached": [
-                "AuraTracker-v1.3.4.zip"
-              ],
-              "Description": "**Full Changelog**: https://github.com/derekShaheen/Aura-Tracker-Gamehelper2/compare/v1.3.3...v1.3.4",
-              "Date": "2025-09-20T22:05:01Z"
             }
           ]
         }
@@ -543,6 +543,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-05T01:20:11.9121887Z",
+  "Updated": "2026-09-05T06:15:50.4548371Z",
   "ModelVersion": "1"
 }
