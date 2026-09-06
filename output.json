@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "Update Radar.cs",
-            "Hash": "48b578af819e8b5e02f5041ed41fc851feb7a568",
+            "Message": "0.7.4-BETA",
+            "Hash": "08485ee46e4300a4a2ef6909bedc1e82ab50821d",
             "Author": "danthespal",
-            "Date": "2026-09-05T01:41:43Z"
+            "Date": "2026-09-06T10:02:27Z"
           },
           "Releases": []
         }
@@ -552,6 +552,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-06T06:27:37.4644696Z",
+  "Updated": "2026-09-06T11:44:10.9698232Z",
   "ModelVersion": "1"
 }
