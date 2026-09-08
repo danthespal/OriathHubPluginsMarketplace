@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "0.7.4-BETA",
-            "Hash": "08485ee46e4300a4a2ef6909bedc1e82ab50821d",
+            "Message": "0.7.8-BETA",
+            "Hash": "34e1abda5e51c57f30a43fb2e6c87af2c74d926a",
             "Author": "danthespal",
-            "Date": "2026-09-06T10:02:27Z"
+            "Date": "2026-09-08T10:25:54Z"
           },
           "Releases": []
         }
@@ -261,6 +261,15 @@
             "Date": "2026-07-13T07:51:48Z"
           },
           "Releases": [
+            {
+              "Id": "0.5.1",
+              "Title": "Ritual 0.5.1",
+              "FilesAttached": [
+                "Ritual.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T07:51:48Z"
+            },
             {
               "Id": "0.5.0",
               "Title": "Ritual 0.5.0",
@@ -552,6 +561,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-08T06:29:25.3212963Z",
+  "Updated": "2026-09-08T12:16:07.9045619Z",
   "ModelVersion": "1"
 }
