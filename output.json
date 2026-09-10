@@ -395,25 +395,15 @@
       "Forks": [
         {
           "Author": "Natsui31",
-          "Location": "Natsui31",
+          "Location": "danthespal",
           "Name": "RunePricer",
           "LatestCommit": {
-            "Message": "Update README.md",
-            "Hash": "2108c7e205aa469e9c0d5edba5f40bb6b42f0da7",
-            "Author": "Natsui31",
-            "Date": "2026-06-28T21:02:35Z"
+            "Message": "Expand README with RunePricer plugin details\n\nAdded detailed information about the RunePricer plugin, including features, installation instructions, requirements, configuration options, known limitations, attribution, and a disclaimer.",
+            "Hash": "8304bb31dc933714227e522714d4b5790485cf79",
+            "Author": "danthespal",
+            "Date": "2026-09-10T12:31:28Z"
           },
-          "Releases": [
-            {
-              "Id": "v1.2.5",
-              "Title": "v1.2.5",
-              "FilesAttached": [
-                "RunePricer-v1.2.5.zip"
-              ],
-              "Description": "Plugin version: 1.2.5\nOriathHub.Sdk version: 0.12.0",
-              "Date": "2026-06-28T21:02:35Z"
-            }
-          ]
+          "Releases": []
         }
       ],
       "Description": "",
@@ -579,6 +569,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-10T12:21:37.3321149Z",
+  "Updated": "2026-09-10T12:57:31.13048Z",
   "ModelVersion": "1"
 }
