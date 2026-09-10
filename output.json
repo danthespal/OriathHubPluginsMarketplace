@@ -193,6 +193,15 @@
           },
           "Releases": [
             {
+              "Id": "0.2.1",
+              "Title": "Notify 0.2.1",
+              "FilesAttached": [
+                "Notify.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T17:26:58Z"
+            },
+            {
               "Id": "0.2.0",
               "Title": "Notify 0.2.0",
               "FilesAttached": [
@@ -570,6 +579,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-10T06:36:11.9461348Z",
+  "Updated": "2026-09-10T12:21:37.3321149Z",
   "ModelVersion": "1"
 }
