@@ -403,11 +403,21 @@
             "Author": "danthespal",
             "Date": "2026-09-10T12:31:28Z"
           },
-          "Releases": []
+          "Releases": [
+            {
+              "Id": "v1.2.6",
+              "Title": "RunePricer v1.2.6",
+              "FilesAttached": [
+                "RunePricer.zip"
+              ],
+              "Description": "## Fixes\r\n- Fixed a rare freeze/crash while the overlay was building its internal UI cache.\r\n- RunePricer: Rune-encounter prices now show correctly on the World overlay and the Large/Mini Map \u2014 previously they only - appeared on the reward selection panel.\r\n- RunePricer: Fixed the plugin losing track of the reward panel and rune encounters after the latest game update.\r\n- RunePricer: Removed an inaccurate estimated price that could appear for some uncut gem rewards.\r\n\r\n## Improved\r\n- RunePricer: Reduced overhead when tracking multiple rune encounters, for smoother performance in busy Expedition areas.\r\n- RunePricer: Fixed a potential crash when the game window is minimized.",
+              "Date": "2026-09-10T12:31:28Z"
+            }
+          ]
         }
       ],
       "Description": "",
-      "EndorsedAuthor": "Nabeora"
+      "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "BetterLootTracker",
@@ -569,6 +579,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-10T12:57:31.13048Z",
+  "Updated": "2026-09-10T13:03:07.4984262Z",
   "ModelVersion": "1"
 }
