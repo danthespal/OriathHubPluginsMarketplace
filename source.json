@@ -175,12 +175,11 @@
         {
           "Author": "Natsui31",
           "Name": "RunePricer",
-          "Branch": "main",
           "Location": "danthespal"
         }
       ],
       "Description": "",
-      "EndorsedAuthor": "Nabeora"
+      "EndorsedAuthor": "danthespal"
     },
     {
       "Name": "BetterLootTracker",
