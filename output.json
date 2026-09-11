@@ -271,6 +271,15 @@
           },
           "Releases": [
             {
+              "Id": "0.5.5",
+              "Title": "Ritual 0.5.5",
+              "FilesAttached": [
+                "Ritual.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T07:51:48Z"
+            },
+            {
               "Id": "0.5.3",
               "Title": "Ritual 0.5.3",
               "FilesAttached": [
@@ -579,6 +588,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-11T06:35:37.5477798Z",
+  "Updated": "2026-09-11T12:20:14.6227806Z",
   "ModelVersion": "1"
 }
