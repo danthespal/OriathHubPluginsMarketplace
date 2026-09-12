@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "v1.0.7",
-            "Hash": "ec3e030706992e8874dde36a42ad9e586541caff",
+            "Message": "v1.0.8",
+            "Hash": "7b87fee409840384e76a151677a5d339a7d6f663",
             "Author": "danthespal",
-            "Date": "2026-09-09T16:23:22Z"
+            "Date": "2026-09-12T16:59:20Z"
           },
           "Releases": []
         }
@@ -606,6 +606,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-12T16:27:31.4443117Z",
+  "Updated": "2026-09-12T19:37:11.4033177Z",
   "ModelVersion": "1"
 }
