@@ -136,6 +136,15 @@
           },
           "Releases": [
             {
+              "Id": "0.4.1",
+              "Title": "Expedition 0.4.1",
+              "FilesAttached": [
+                "Expedition.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:05:37Z"
+            },
+            {
               "Id": "0.3.3",
               "Title": "Expedition 0.3.3",
               "FilesAttached": [
@@ -588,6 +597,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-12T06:24:11.6667788Z",
+  "Updated": "2026-09-12T11:42:36.1485215Z",
   "ModelVersion": "1"
 }
