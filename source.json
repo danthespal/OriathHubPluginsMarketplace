@@ -220,6 +220,19 @@
       ],
       "Description": "",
       "EndorsedAuthor": "danthespal"
+    },
+    {
+      "Name": "Sanctum",
+      "OriginalAuthor": "danthespal",
+      "Repositories": [
+        {
+          "Author": "danthespal",
+          "Name": "Sanctum",
+          "Location": "danthespal"
+        }
+      ],
+      "Description": "",
+      "EndorsedAuthor": "danthespal"
     }
   ]
 }
