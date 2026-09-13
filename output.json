@@ -49,10 +49,10 @@
           "Location": "danthespal",
           "Name": "NinjaPricer",
           "LatestCommit": {
-            "Message": "v1.0.1\n\n## Fixes\n- on sectioned stash tabs (Runes, Ritual, Essence, Fragments, Tablets), real priced items could show no box at all, or the overlay could draw boxes for a different, inactive tab entirely. An inactive category or sub-tab page was competing with the one actually on screen when picking \u0022which tab is open\u0022; the stash walk now only considers the active branch.\n- the per-cell scroll-visibility check rebuilt a disconnected copy of each cell instead of reusing the one already resolved, which could silently mark a valid, on-screen item as not visible and skip drawing its price. It now reuses the resolved cell directly.",
-            "Hash": "56e426583cbb8e304de473ca83abedd3e7f52d0e",
+            "Message": "Update plugin version to 1.0.2",
+            "Hash": "8b2a2e7e01b4de6d8cb4b77d718729258f90cc3d",
             "Author": "danthespal",
-            "Date": "2026-09-11T18:23:25Z"
+            "Date": "2026-09-13T17:17:18Z"
           },
           "Releases": []
         }
@@ -626,6 +626,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-13T17:02:29.6171722Z",
+  "Updated": "2026-09-13T19:42:10.8391699Z",
   "ModelVersion": "1"
 }
