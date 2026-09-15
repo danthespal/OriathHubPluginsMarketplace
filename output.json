@@ -9,10 +9,10 @@
           "Location": "danthespal",
           "Name": "HealthBars",
           "LatestCommit": {
-            "Message": "fix\n\nno longer draws a second bar for hidden, invulnerable controller entities that mirror a monster\u0027s health.",
-            "Hash": "21e9592abbac79ad30be227cb3bb5cbd95e84289",
+            "Message": "0.9.2-BETA",
+            "Hash": "d7a98ec725039495949d6f3c4650a8f4badbd1d5",
             "Author": "danthespal",
-            "Date": "2026-08-23T09:27:47Z"
+            "Date": "2026-09-15T08:18:18Z"
           },
           "Releases": []
         }
@@ -29,10 +29,10 @@
           "Location": "danthespal",
           "Name": "Radar",
           "LatestCommit": {
-            "Message": "Update targets.json",
-            "Hash": "1da97b6f6048fbd76b22e46e0864c91d12c052db",
+            "Message": "0.9.2-BETA",
+            "Hash": "57e46992458a08cf40680c8114a95c4194ffadc4",
             "Author": "danthespal",
-            "Date": "2026-09-15T06:28:46Z"
+            "Date": "2026-09-15T08:18:46Z"
           },
           "Releases": []
         }
@@ -49,10 +49,10 @@
           "Location": "danthespal",
           "Name": "NinjaPricer",
           "LatestCommit": {
-            "Message": "Update plugin version to 1.0.2",
-            "Hash": "8b2a2e7e01b4de6d8cb4b77d718729258f90cc3d",
+            "Message": "0.9.2-BETA",
+            "Hash": "3c32a0fd4b3660484d327017cc3f0e0c1dffd797",
             "Author": "danthespal",
-            "Date": "2026-09-13T17:17:18Z"
+            "Date": "2026-09-15T08:18:26Z"
           },
           "Releases": []
         }
@@ -69,10 +69,10 @@
           "Location": "danthespal",
           "Name": "AutoHotKeyTrigger",
           "LatestCommit": {
-            "Message": "1.0.2",
-            "Hash": "e28bc9e73346b896b5644279b77357fbbdbd782e",
+            "Message": "0.9.2-BETA",
+            "Hash": "ac936e2dd18ce8a1fc2587000d6bc8fc61c040fa",
             "Author": "danthespal",
-            "Date": "2026-09-07T18:31:47Z"
+            "Date": "2026-09-15T08:18:08Z"
           },
           "Releases": []
         }
@@ -89,10 +89,10 @@
           "Location": "danthespal",
           "Name": "Atlas",
           "LatestCommit": {
-            "Message": "SDK Updated",
-            "Hash": "af1606259af2060f9cbdfa1da424fb5d1ec8f5e1",
+            "Message": "0.9.2-BETA",
+            "Hash": "9ddfcc78660d9b7084b1d11eeb22685a0001dd44",
             "Author": "danthespal",
-            "Date": "2026-09-10T13:37:58Z"
+            "Date": "2026-09-15T08:17:57Z"
           },
           "Releases": []
         }
@@ -109,10 +109,10 @@
           "Location": "danthespal",
           "Name": "Pathfinding",
           "LatestCommit": {
-            "Message": "sdk",
-            "Hash": "278ae6419192e384b71c128105b326b1f0777454",
+            "Message": "0.9.2-BETA",
+            "Hash": "af78333707dbd4abdd3f1a8cd44282934c937b50",
             "Author": "danthespal",
-            "Date": "2026-07-06T00:30:51Z"
+            "Date": "2026-09-15T08:18:38Z"
           },
           "Releases": []
         }
@@ -432,6 +432,15 @@
           },
           "Releases": [
             {
+              "Id": "v1.2.7",
+              "Title": "RunePricer v1.2.7",
+              "FilesAttached": [
+                "RunePricer.zip"
+              ],
+              "Description": "### Changed\r\n- The Runeshape panel search now uses the host\u0027s fast UI readers instead of its own memory offsets. That makes it faster (one read per panel instead of one per child) and less likely to break after game patches.\r\n- Rebuilt against SDK 0.18.0 (from 0.12.0).",
+              "Date": "2026-09-10T12:31:28Z"
+            },
+            {
               "Id": "v1.2.6",
               "Title": "RunePricer v1.2.6",
               "FilesAttached": [
@@ -594,10 +603,10 @@
           "Location": "danthespal",
           "Name": "RitualWispFollow",
           "LatestCommit": {
-            "Message": "Update RitualWispFollow.csproj",
-            "Hash": "855431ee0fb7bf392d11d289d1c0fdc96846267f",
+            "Message": "0.9.2-BETA",
+            "Hash": "1610b8a75f9c859810bb2893ec96bbcf4480c702",
             "Author": "danthespal",
-            "Date": "2026-08-22T22:54:17Z"
+            "Date": "2026-09-15T08:18:55Z"
           },
           "Releases": []
         }
@@ -614,10 +623,10 @@
           "Location": "danthespal",
           "Name": "Sanctum",
           "LatestCommit": {
-            "Message": "1.0.0",
-            "Hash": "ee46a70d98a843a270368876e993575a58abc0e8",
+            "Message": "0.9.2-BETA",
+            "Hash": "5031d779b462480e19a5245455a70bca86c8d997",
             "Author": "danthespal",
-            "Date": "2026-09-13T09:17:08Z"
+            "Date": "2026-09-15T08:19:03Z"
           },
           "Releases": []
         }
@@ -626,6 +635,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-15T06:37:13.2312113Z",
+  "Updated": "2026-09-15T12:51:30.7354135Z",
   "ModelVersion": "1"
 }
