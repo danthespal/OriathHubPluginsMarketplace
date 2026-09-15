@@ -289,6 +289,15 @@
           },
           "Releases": [
             {
+              "Id": "0.5.6",
+              "Title": "Ritual 0.5.6",
+              "FilesAttached": [
+                "Ritual.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-13T07:51:48Z"
+            },
+            {
               "Id": "0.5.5",
               "Title": "Ritual 0.5.5",
               "FilesAttached": [
@@ -354,6 +363,15 @@
             "Date": "2026-07-01T16:22:11Z"
           },
           "Releases": [
+            {
+              "Id": "0.6.4",
+              "Title": "Waystones 0.6.4",
+              "FilesAttached": [
+                "Waystones.zip"
+              ],
+              "Description": "",
+              "Date": "2026-07-01T16:22:11Z"
+            },
             {
               "Id": "0.6.3",
               "Title": "Waystones 0.6.3",
@@ -431,6 +449,15 @@
             "Date": "2026-09-10T12:31:28Z"
           },
           "Releases": [
+            {
+              "Id": "v1.2.8",
+              "Title": "RunePricer v1.2.8",
+              "FilesAttached": [
+                "RunePricer.zip"
+              ],
+              "Description": "- bug fix",
+              "Date": "2026-09-10T12:31:28Z"
+            },
             {
               "Id": "v1.2.7",
               "Title": "RunePricer v1.2.7",
@@ -635,6 +662,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-15T12:51:30.7354135Z",
+  "Updated": "2026-09-15T17:45:02.9985795Z",
   "ModelVersion": "1"
 }
