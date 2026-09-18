@@ -129,10 +129,10 @@
           "Location": "danthespal",
           "Name": "Expedition",
           "LatestCommit": {
-            "Message": "Initial commit",
-            "Hash": "fb7534588bc7275aa9ff10bcee8da8b7aefa4855",
+            "Message": "Add Expedition route weights guide\n\nThis document provides a comprehensive guide on how the Expedition route planner scores targets, detailing scoring methods, priorities, base weights, and practical profiles for players configuring the plugin.",
+            "Hash": "4b01d1b00a7199744d610a65ca68f05b041cec69",
             "Author": "danthespal",
-            "Date": "2026-09-18T10:14:41Z"
+            "Date": "2026-09-18T10:52:56Z"
           },
           "Releases": [
             {
@@ -572,6 +572,6 @@
       "EndorsedAuthor": "danthespal"
     }
   ],
-  "Updated": "2026-09-18T10:49:23.1773095Z",
+  "Updated": "2026-09-18T12:20:41.1880292Z",
   "ModelVersion": "1"
 }
